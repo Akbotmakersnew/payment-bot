@@ -24,6 +24,7 @@
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
             "required": true
+        }
     },
     "addons": [],
     "buildpacks": [{
