@@ -1,4 +1,4 @@
-Import.os
+Import io
 
 Bot = Client(
     "Payment-Bot",
