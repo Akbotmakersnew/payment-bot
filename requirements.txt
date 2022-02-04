@@ -1,3 +1,2 @@
-io
-os
-pyrogram
+pymongo[srv]==3.11.4
+tgcrypto==1.2.2
