@@ -1,5 +1,5 @@
 Import io
-
+Import os
 Import API_HASH, API_ID, BOT_TOKEN
 
 Bot = Client(
